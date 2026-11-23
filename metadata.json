@@ -1,0 +1,11 @@
+{
+  "name": "App Hemo Labor",
+  "description": "Intelligent blood test analysis and organization tool for medical consultations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
